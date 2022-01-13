@@ -1,0 +1,5 @@
+//swag
+PATH=$(go env GOPATH)/bin:$PATH 
+
+//go
+export PATH=$PATH:/opt/go/bin
